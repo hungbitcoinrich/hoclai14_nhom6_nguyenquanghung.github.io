@@ -1,5 +1,5 @@
 # hoclai14_nhom6_lethanhcong.github.io
-![Ảnh cá nhân](https://github.com/hungbitcoinrich/hoclai14_nhom6_nguyenquanghung.github.io/blob/main/461726250_1742601986483301_5649883732697049446_n.jpg)
+![Ảnh cá nhân](https://github.com/hungbitcoinrich/hoclai14_nhom6_nguyenquanghung.github.io/blob/master/hung.jpg)
 
 ## Thông tin cá nhân
 - **Họ và tên**: [Nguyễn Quang Hùng]
