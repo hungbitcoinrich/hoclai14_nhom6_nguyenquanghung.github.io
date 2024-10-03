@@ -1,1 +1,1 @@
-help
+cong qua ngu
